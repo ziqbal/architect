@@ -1,0 +1,9 @@
+
+
+unsorted functions
+init structure
+broadcast
+move code from boot (posthook)
+some error on output
+
+minify flag

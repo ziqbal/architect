@@ -1,0 +1,14 @@
+
+~/.bash_profile
+alias architect='/www/_craft_/architect/architect.sh'
+architect 1 2 3 "hello world" "a b"
+
+add auto "watch" status and rerun
+
+
+<?= _macro( "src/_macro_log0.php" ) ; ?>
+//_log($_MACRO_ARGS);
+
+[hooks]
+;pre = _hookpre.php
+post = src/_hookpost.php
